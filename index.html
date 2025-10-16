@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vertical Platform Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="menu">
+        <h1>Vertical Platform Game</h1>
+        <button id="startGame">Start Game</button>
+        <button id="showInstructions">Instructions</button>
+        <button id="exitGame">Exit</button>
+    </div>
+
+    <div id="instructions" class="hidden">
+        <h2>Instructions</h2>
+        <p>Use the arrow keys to move, space to jump, and avoid the spikes!</p>
+        <button id="closeInstructions">Close</button>
+    </div>
+        <canvas id="gameCanvas" width="800" height="600"></canvas>
+        <div id="timer" style="color: red;">Time: <span id="timeLeft">60</span></div>
+        <div id="lives" style="color: red;">Lives: <span id="livesCount">3</span></div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
