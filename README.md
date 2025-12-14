@@ -25,7 +25,7 @@ Bestuur je speler, beweeg door het level en probeer obstakels te ontwijken of do
 
 🚀 **Installatie & Gebruik**
 
-🕹️ Je kunt de game via github pages spelen de link staat ook onder de biografie van dit project
+💻 Je kunt de game via github pages spelen de link staat ook onder de biografie van dit project
 
  Of 
  
