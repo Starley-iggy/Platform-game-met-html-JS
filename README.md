@@ -42,10 +42,14 @@ Open het bestand index.html in je browser
 Gebruik het toetsenbord om je speler te besturen 🎮
 
 🧩 **Projectstructuur**
-Platform-game-met-html-JS/
+### Platform-game-met-html-JS/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 🎮 **Besturing**
@@ -60,13 +64,13 @@ Platform-game-met-html-JS/
 
 🛠️ **Gebouwd met**
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
-Browser (Canvas / DOM)
+- Browser (Canvas / DOM)
 
 🤝 **Bijdragen**
 
